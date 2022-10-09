@@ -1,1 +1,23 @@
-[{"id":"bf9f97a5-6965-4991-95da-272b0fab3265","name":"Fiesta","releaseYear":2022,"avalaible":true,"gasAvalaible":true},{"id":"df8c4791-4cbd-44f2-9cc2-a3e58cefb813","name":"Aventador","releaseYear":2022,"avalaible":true,"gasAvalaible":true},{"id":"28dff1fc-6e4b-46c7-81c9-47aec99796d6","name":"Spyder","releaseYear":2022,"avalaible":true,"gasAvalaible":true}]
+[
+  {
+    "id": "3f0c299a-be3c-4f88-a92a-fb363245242e",
+    "name": "Ranchero",
+    "releaseYear": 2021,
+    "avalaible": true,
+    "gasAvalaible": true
+  },
+  {
+    "id": "af6081b7-3792-4d03-91a2-a88301dfb5ea",
+    "name": "Challenger",
+    "releaseYear": 2022,
+    "avalaible": true,
+    "gasAvalaible": true
+  },
+  {
+    "id": "793ea282-cae7-4db5-9650-c59d2f0c96e4",
+    "name": "Beetle",
+    "releaseYear": 2022,
+    "avalaible": true,
+    "gasAvalaible": true
+  }
+]
