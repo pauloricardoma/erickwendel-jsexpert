@@ -32,7 +32,7 @@ for (let index = 0; index <= ITEMS_AMOUNT; index++) {
   const customer = new Customer({
     id: faker.datatype.uuid(),
     name: faker.name.lastName(),
-    age: faker.random.numeric(2)
+    age: faker.datatype.number({min: 18, max: 100})
   })
   customers.push(customer)
 }
